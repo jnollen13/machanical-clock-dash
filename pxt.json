@@ -1,0 +1,34 @@
+{
+    "name": "machanical clock dash-opens",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.40",
+        "tag": "v2.0.40",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e365009949b9c899fc4c9914e30e362bd22a209b",
+        "target": "2.0.40",
+        "pxt": "11.3.48",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
