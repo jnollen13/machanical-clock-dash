@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://jnollen13.github.io/machanical-clock-dash/](https://jnollen13.github.io/machanical-clock-dash/)
+> Open this page at https://arcade.makecode.com/S13108-48078-89424-87176
 
 ## Use as Extension
 
